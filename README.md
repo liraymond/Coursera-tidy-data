@@ -5,7 +5,7 @@ Project for Coursera. Tidying up data from raw .txt files.
 1) The source of data is from this URL below. Unzip.
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2) These files must be moved to the same working directory so that R can read them (conveniently).
-  * `features.txt`
+  	* `features.txt`
 	* `subject_train.txt`
 	* `subject_test.txt`
 	* `X_train.txt`
