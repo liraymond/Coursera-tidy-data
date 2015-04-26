@@ -14,6 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * `y_test.txt`
 
 Run the R script, `run_analysis_R` to tidy up the data.
+Refer to `codebook.md` for details regarding the steps.
 
 #Additional info
   * The unzipped directory contains `README.txt`, which includes information about the experiment.
